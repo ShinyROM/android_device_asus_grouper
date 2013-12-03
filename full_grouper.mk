@@ -30,3 +30,4 @@ PRODUCT_NAME := full_grouper
 PRODUCT_DEVICE := grouper
 PRODUCT_BRAND := Android
 PRODUCT_MODEL := AOSP on Grouper
+PRODUCT_RESTRICT_VENDOR_FILES := false
